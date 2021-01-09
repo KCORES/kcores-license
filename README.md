@@ -4,7 +4,7 @@ KCORES 许可证
 ![license-kcores-bandge](./bandge/license-kcores.png)
 
 
-# 许可证
+# 许可证下载
 
 - [中文版本许可证](./LICENSE_zh-CN)
 
