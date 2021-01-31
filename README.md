@@ -1,7 +1,7 @@
 KCORES 许可证
 -------------
 
-![license-kcores-bandge](./bandge/license-kcores.png)
+![license-kcores-bandge](./bandge/kcores-open-source-license-bandge.png)
 
 
 # 许可证下载
@@ -44,7 +44,7 @@ KCORES 许可证的目的是聚集开源硬件爱好者, 帮助使用 KCORES 许
 
 # 徽章, 吧唧
 
-自豪地采用 KCORES 许可证, 为你的项目戴上徽章吧! 徽章文件在这里 [license-kcores.png](./bandge/license-kcores.png).  
+自豪地采用 KCORES 许可证, 为你的项目戴上徽章吧! 徽章文件在这里 [kcores-open-source-license-bandge](./bandge/kcores-open-source-license-bandge.png).  
 
 
 # KCORES 是什么?
